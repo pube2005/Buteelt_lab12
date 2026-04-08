@@ -1,3 +1,6 @@
-print("Hello World")
-if True  # Энд хоёр цэг (:) дутуу байгаа тул алдаа гарна
-    print("Test"
+# Untitled-1.py
+def hello():
+    print("Сайн уу")
+
+# Доорх мөрөнд зориуд алдаа гаргав (хаалт дутуу)
+hello(
